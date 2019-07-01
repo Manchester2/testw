@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-	<head>
-     	<title>My Web Page!</title>
-	</head>
-	<body>
-		29-06-2019 _ GE
-	</body>
-</html>
